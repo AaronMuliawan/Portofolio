@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Curiculum Vitae</string>
+    <string name="namaprofile">Aaron Muliawan</string>
+    <string name="skilprofile">Web Desain / Android Developer</string>
+    <string name="deskprofile"> Nama Saya IstiqHarun Kesatria Muliawan Akbar, Saya biasa dipanggil Aaron Muliawan karena nama ini lebih jelas dan simple dibandingkan dengan nama saya yang aslinya.
+                                Saya Lahir pada tanggal 14 April 2002 di Purbalingga, Jawa Tengah.
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto aspernatur blanditiis debitis dolor ea earum id quas recusandae tempore voluptate! Ad atque earum fugit laboriosam libero magnam perferendis quasi temporibus!
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta fugit harum illum minus praesentium quidem recusandae repudiandae sint, veritatis voluptatem. Alias aut beatae nam nulla porro possimus quaerat quam, veniam.
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid officiis reiciendis veniam veritatis? Aliquam debitis ipsam laboriosam laborum ratione tenetur totam voluptatem! Consequuntur dicta laboriosam, laudantium magni porro quos similique?
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta ducimus explicabo harum itaque iusto modi odit perferendis perspiciatis quod ratione? Debitis dolor eligendi, facilis iusto nihil odio qui quia veritatis?
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam animi asperiores atque, eius harum in ipsam laborum minima molestiae natus nisi obcaecati officiis, possimus quae quisquam rerum temporibus, unde voluptas?
+    </string>
+    <string name="profile">Profile</string>
+    <string name="projek">Projek</string>
+    <string name="pendidikan">Pendidikan</string>
+    <string name="keahlian">Keahlian</string>
+    <string name="kontak">Kontak</string>
+    <string name="sertifikat">Sertifikat</string>
+    <string name="android">Aplikasi Android</string>
+    <string name="deskandroid">Kumpulan Aplikasi Android</string>
+    <string name="web">Website</string>
+    <string name="deskweb">Kumpulan Projek Website</string>
+    <string name="desksmp">SMP Swasta Terbaik yang ada di kota Depok dan sudah Terakreditasi `A`</string>
+    <string name="desksmk">SMK Swasta yang berbasis IT, Sekolah ini Terakreditasi `A` dan sekolah IT Terbaik di Kota Depok</string>
+    <string name="notlp">+62 83877102300</string>
+    <string name="tipe">Phone</string>
+    <string name="email">aaronmuliawans@gmail.com</string>
+    <string name="nowa">0838-7710-2300</string>
+    <string name="ig">\@four_teen_14</string>
+    <string name="dashboard">My Dashboard</string>
+    <string name="row">9 row</string>
+</resources>
