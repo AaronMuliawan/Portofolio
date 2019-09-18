@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Guide Chess Rush</string>
+    <string name="gmail">aaronmuliawans@gmail.com</string>
+    <string name="namalengkap">IstiqHarun Kesatria Muliawan Akbar</string>
+    <string name="nama_detail">Nama</string>
+    <string name="desk">deskripsi</string>
+    <string name="list">list</string>
+    <string name="grid">grid</string>
+    <string name="card">card</string>
+    <string name="about">about</string>
+</resources>
